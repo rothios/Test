@@ -1,0 +1,32 @@
+body {
+  background-color: #fefefe;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+h1 {
+  margin-bottom: 20px;
+}
+.item {
+  padding: 10px;
+  background: white;
+  margin: 10px auto;
+  width: 250px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.2s;
+}
+.item:hover {
+  background-color: #f0f8ff;
+}
+.product-list {
+  margin-bottom: 20px;
+}
+.payment-section {
+  margin-top: 30px;
+}
+.qr {
+  width: 150px;
+  margin: 10px 0;
+}
